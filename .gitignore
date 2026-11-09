@@ -19,6 +19,11 @@ tallies.out
 plot_*.png
 plot_*.ppm
 tracks*.h5
+02_pin_cell/output/
+03_assembly/output/
+04_subcritical/output/
+05_depletion/output/
+06_sensitivity/output/
 
 # Nuclear data (large, download separately)
 nuclear_data/

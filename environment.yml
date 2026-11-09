@@ -1,0 +1,8 @@
+name: openmc-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - openmc=0.16.0
+  - numpy
+  - matplotlib
